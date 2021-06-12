@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/wheel-of-life-react/static/css/main.1ea3bf6c.chunk.css",
-    "main.js": "/wheel-of-life-react/static/js/main.ea57b52b.chunk.js",
-    "main.js.map": "/wheel-of-life-react/static/js/main.ea57b52b.chunk.js.map",
+    "main.js": "/wheel-of-life-react/static/js/main.80d2d003.chunk.js",
+    "main.js.map": "/wheel-of-life-react/static/js/main.80d2d003.chunk.js.map",
     "runtime-main.js": "/wheel-of-life-react/static/js/runtime-main.199154c1.js",
     "runtime-main.js.map": "/wheel-of-life-react/static/js/runtime-main.199154c1.js.map",
     "static/js/2.13d1bcbb.chunk.js": "/wheel-of-life-react/static/js/2.13d1bcbb.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.199154c1.js",
     "static/js/2.13d1bcbb.chunk.js",
     "static/css/main.1ea3bf6c.chunk.css",
-    "static/js/main.ea57b52b.chunk.js"
+    "static/js/main.80d2d003.chunk.js"
   ]
 }
